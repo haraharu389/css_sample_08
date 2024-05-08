@@ -19,7 +19,7 @@ body::before{
 #wrap {
   width: 960px;
   margin: auto;
-  background-color: white;
+  background-color: rgb(201, 201, 201,.9);
 }
  
 header {
